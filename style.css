@@ -1,0 +1,23 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color:darksalmon;
+}
+
+.cartao {
+    background-color:bisque;
+    border-radius: 12px;
+    padding: 100px;
+    text-align: center;
+    width: 300px;
+    margin: 100px auto;
+    box-shadow: 0 4px 11px rgba(0,0,0,0.2);
+}
+
+h1 {
+    color: #333;
+}
+
+p {
+    color: #555;
+    margin: 5px 0;
+}
